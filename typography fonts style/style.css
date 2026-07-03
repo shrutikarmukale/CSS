@@ -1,0 +1,61 @@
+body{
+    background:#dff6dd;
+    padding:20px;
+    line-height:1.8;
+}
+
+.font1{
+    font-family:'Lobster',cursive;
+    font-size:45px;
+    color:green;
+    text-align:center;
+}
+
+.font2{
+    font-family:'Roboto',sans-serif;
+    font-size:22px;
+}
+
+.font3{
+    font-family:'Poppins',sans-serif;
+    font-size:22px;
+}
+
+.font4{
+    font-family:'Pacifico',cursive;
+    font-size:24px;
+    color:#2e7d32;
+}
+
+.font5{
+    font-family:'Montserrat',sans-serif;
+    font-size:22px;
+}
+
+.font6{
+    font-family:'Oswald',sans-serif;
+    font-size:22px;
+}
+
+.font7{
+    font-family:'Playfair Display',serif;
+    font-size:22px;
+}
+
+.font8{
+    font-family:'Merriweather',serif;
+    font-size:22px;
+}
+
+.font9{
+    font-family:'Dancing Script',cursive;
+    font-size:30px;
+    color:darkgreen;
+}
+
+.font10{
+    font-family:'Raleway',sans-serif;
+    font-size:24px;
+    font-weight:bold;
+    color:green;
+}
