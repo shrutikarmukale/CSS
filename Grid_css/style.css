@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+.grid-item{
+    background-color: black;
+    overflow: hidden;
+}
+
+.grid-item img{
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+.grid-item img:hover{
+    transform: scale(1.2);
+}
