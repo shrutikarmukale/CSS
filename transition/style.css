@@ -1,0 +1,27 @@
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fffef9;
+}
+
+.btn{
+    margin-top: 10%;
+    margin-left: 20%;
+    padding: 10px 20px;
+    background-color: #601394;
+    color: #afb1b4;
+    border: 1px solid #010305;
+    border-radius: 5px;
+    font-size: 1.9rem;
+    font-family: cursive;
+    transition: all 0.5s ease-in-out;
+}
+.btn:hover{
+    background-color:#df0808 ;
+    color:#fffef9;
+    border: 2px solid #fffef9;
+    transform: scale(1.1);
+}
